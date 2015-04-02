@@ -1,0 +1,67 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 1
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eutamias" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 298 download events in this period)
+Total number of records downloaded: 169 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 106
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "macrotus" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 19
+Total number of records retrieved from searches: 77
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 911
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 23
+Total number of records retrieved from searches: 86
+Number of download events that retrieved data from the resource: 149
+Total number of records downloaded: 7561
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
