@@ -1,0 +1,95 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-05 ; Times: 4
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Myotis leibii" ; Times: 3
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "Eumops perotis" ; Times: 3
+	Query: "Canis lupus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cottonwood Creek county:&#34;Inyo&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1045 download events in this period)
+Total number of records downloaded: 1720
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-10 ; Times: 13
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 18
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+
+
+End of report.
