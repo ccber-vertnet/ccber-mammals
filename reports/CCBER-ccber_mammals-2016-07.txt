@@ -1,0 +1,87 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 336
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 4
+	Country: Japan ; Times: 9
+	Country: Portugal ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-10 ; Times: 3
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-21 ; Times: 4
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-18 ; Times: 6
+	Date: 2016-07-28 ; Times: 6
+	Date: 2016-07-29 ; Times: 3
+	Date: 2016-07-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota marmota 1" ; Times: 1
+	Query: "kettleman city" ; Times: 2
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "Procyon lotor 1" ; Times: 11
+	Query: "Balaenoptera borealis" ; Times: 4
+	Query: "gbifdatasetid:383f8172-fcf3-481d-b2fa-decd9e54bb69" ; Times: 2
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(Sorex) institutioncode:CCBER" ; Times: 1
+	Query: "Balaenoptera borealis (california)" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "kettleman" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1219 download events in this period)
+Total number of records downloaded: 581
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-26 ; Times: 4
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-19 ; Times: 1
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-13 ; Times: 2
+	Date: 2016-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "&#34;Santa Rosa Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 3
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "dasypodidae" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+
+
+End of report.
