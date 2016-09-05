@@ -1,0 +1,91 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-14 ; Times: 4
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 lengthtype:total length haslength:1" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Cruz Island AND Phoca" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Saguinus oedipus 1" ; Times: 1
+	Query: "Nicolas Island AND Phoca" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 haslength:1" ; Times: 2
+	Query: "Nicolas Island AND Urocyon" ; Times: 1
+	Query: "Barbara Island AND Phoca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 924 download events in this period)
+Total number of records downloaded: 1504
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "Granite Pass" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+
+
+End of report.
