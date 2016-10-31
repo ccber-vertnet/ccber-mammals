@@ -1,0 +1,56 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 70
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-21 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saguinus oedipus 1" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela institutioncode:CCBER" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 811 download events in this period)
+Total number of records downloaded: 16625
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+
+
+End of report.
