@@ -1,0 +1,72 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: India ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "genus:dipodomys catalognumber:1579" ; Times: 1
+	Query: "specificepithet:borealis genus:Lissodelphis" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:Bos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:lagenorhynchus obliquidens" ; Times: 1
+	Query: "genus:tadarida county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1359 download events in this period)
+Total number of records downloaded: 278
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: India ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "genus:Bos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:tadarida county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Enhydra lutris stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
