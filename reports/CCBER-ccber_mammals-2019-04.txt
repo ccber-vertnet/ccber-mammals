@@ -1,0 +1,69 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 56
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 4
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mephitis institutioncode:CCBER" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:CCBER" ; Times: 1
+	Query: "ccber 2574" ; Times: 2
+	Query: "ccber 1593" ; Times: 2
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Spilogale institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1263 download events in this period)
+Total number of records downloaded: 183
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-18 ; Times: 7
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-02 ; Times: 8
+	Date: 2019-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+
+
+End of report.
