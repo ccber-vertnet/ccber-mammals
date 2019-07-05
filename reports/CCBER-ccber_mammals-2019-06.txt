@@ -1,0 +1,77 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 150
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 4
+	Date: 2019-06-11 ; Times: 6
+	Date: 2019-06-10 ; Times: 2
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tereticaudus genus:spermophilus class:mammalia institutioncode:CCBER" ; Times: 1
+	Query: "genus:Mirounga specificepithet:angustirostris" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:CCBER" ; Times: 2
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis" ; Times: 1
+	Query: "genus:Pachyuromys specificepithet:duprasi" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1182 download events in this period)
+Total number of records downloaded: 212
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 8
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "california condor" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Puma concolor" ; Times: 3
+
+
+End of report.
