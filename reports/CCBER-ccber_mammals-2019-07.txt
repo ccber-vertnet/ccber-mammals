@@ -1,0 +1,170 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1060
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 96
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 11
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-22 ; Times: 22
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 25
+	Date: 2019-07-24 ; Times: 10
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-15 ; Times: 8
+	Date: 2019-07-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:zalophus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:tadarida order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "locality:gaviota institutioncode:CCBER" ; Times: 3
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Laughrin AND Island AND 4016" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Collins AND Barbara Island" ; Times: 1
+	Query: "genus:tamiasciurus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "Laughrin AND Island AND Urocyon" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Laughrin AND Island AND 1968" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:procyon order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "order:lagomorpha class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Laughrin AND Island AND Peromyscus" ; Times: 1
+	Query: "Mojave Desert 5 mi. N Willow Springs" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Laughrin AND Island AND 1969" ; Times: 1
+	Query: "country:&#34;United States&#34; panthera tigris" ; Times: 1
+	Query: "genus:microtus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:spilogale class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:phoca order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 3
+	Query: "order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Laughrin AND Island" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:bassariscus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Collins AND Santa Barbara Island" ; Times: 1
+	Query: "Collins AND Santa Cruz Island AND CCBER" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Laughrin" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:tamias class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:taxidea order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:spermophilus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:ondatra class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Collins AND Santa Cruz Island" ; Times: 2
+	Query: "specificepithet:formosus genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:lynx order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:ursus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:sciurus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 985 download events in this period)
+Total number of records downloaded: 363
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-23 ; Times: 21
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
