@@ -1,0 +1,76 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Thailand ; Times: 11
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 12
+	Date: 2019-09-05 ; Times: 11
+	Date: 2019-09-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "Eumops perotis haslength:1" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "Peromyscus maniculatus 1978" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian W. Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian W Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1073 download events in this period)
+Total number of records downloaded: 200
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
