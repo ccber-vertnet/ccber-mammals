@@ -1,0 +1,130 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 416
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 79
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 7
+	Date: 2019-10-05 ; Times: 15
+	Date: 2019-10-04 ; Times: 39
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "Reithrodontomys megalotis 2007" ; Times: 1
+	Query: "Reithrodontomys megalotis 2006" ; Times: 1
+	Query: "genus:macrotus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Mus musculus 2013" ; Times: 3
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "skin specificepithet:latrans genus:canis county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Mus musculus 1980" ; Times: 2
+	Query: "skin specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "skin specificepithet:latrans genus:canis county:&#34;ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "preparations:skeleton (Mirounga angustirostris)" ; Times: 1
+	Query: "Zapus princeps 2013" ; Times: 1
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "Reithrodontomys megalotis 1978" ; Times: 1
+	Query: "Reithrodontomys megalotis 1979" ; Times: 1
+	Query: "Microtus longicaudus 1978" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "specificepithet:borealis genus:lasiurus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Microtus longicaudus 1973" ; Times: 1
+	Query: "Reithrodontomys megalotis 1987" ; Times: 1
+	Query: "Microtus longicaudus 2013" ; Times: 1
+	Query: "Reithrodontomys megalotis 1981" ; Times: 1
+	Query: "Reithrodontomys megalotis 1980" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 2
+	Query: "Reithrodontomys megalotis 1982" ; Times: 1
+	Query: "Reithrodontomys megalotis 2013" ; Times: 2
+	Query: "Reithrodontomys megalotis 2016" ; Times: 3
+	Query: "skin specificepithet:latrans genus:Canis county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Reithrodontomys megalotis 1974" ; Times: 1
+	Query: "Reithrodontomys megalotis 1975" ; Times: 1
+	Query: "Reithrodontomys megalotis 1976" ; Times: 1
+	Query: "Zapus princeps 1973" ; Times: 1
+	Query: "Reithrodontomys megalotis 1973" ; Times: 1
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "Mus musculus 1974" ; Times: 4
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "skin specificepithet:latrans genus:Canis county:&#34;ventura&#34;" ; Times: 1
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "skin specificepithet:latrans genus:canis county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "recordedby:morgan ball" ; Times: 1
+	Query: "skin specificepithet:latrans genus:canis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rattus norvegicus 2013" ; Times: 2
+	Query: "skin specificepithet:latrans genus:Canis stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Reithrodontomys megalotis 1994" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1308 download events in this period)
+Total number of records downloaded: 321
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 13
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sorex ornatus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
