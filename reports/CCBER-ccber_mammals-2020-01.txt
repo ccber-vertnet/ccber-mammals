@@ -1,0 +1,89 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:peromyscus county:&#34;napa&#34;" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 2
+	Query: "genus:lynx county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:tadarida county:&#34;riverside&#34; stateprovince:&#34;california&#34; recordedby:sweet" ; Times: 1
+	Query: "genus:Tadarida county:&#34;riverside&#34; stateprovince:&#34;california&#34; recordedby:sweet" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "recordedby:lawrence hunt" ; Times: 3
+	Query: "genus:Tadarida county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1584 download events in this period)
+Total number of records downloaded: 299
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "order:rodentia county:&#34;napa&#34;" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
