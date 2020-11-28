@@ -1,0 +1,109 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 410
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-24 ; Times: 5
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:CCBER" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 2
+	Query: "Panthera tigris" ; Times: 2
+	Query: "specificepithet:lepida genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CCBER" ; Times: 1
+	Query: "Collins 1888" ; Times: 2
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "scientificname:Panthera tigris" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1521 download events in this period)
+Total number of records downloaded: 2155
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: India ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-16 ; Times: 5
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CCBER" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
