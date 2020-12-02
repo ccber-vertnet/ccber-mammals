@@ -1,0 +1,134 @@
+Report for Institution Code CCBER, Resource ccber_mammals
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 90
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-10 ; Times: 80
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "scientificname:Martes americana" ; Times: 2
+	Query: "scientificname:Didelphis virginiana" ; Times: 6
+	Query: "scientificname:Puma concolor" ; Times: 4
+	Query: "scientificname:Sorex palustris" ; Times: 1
+	Query: "scientificname:Castor Canadensis" ; Times: 2
+	Query: "scientificname:Rattus norvegicus" ; Times: 6
+	Query: "scientificname:Delphinus delphis" ; Times: 2
+	Query: "scientificname:Mephitis mephitis" ; Times: 6
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "scientificname:Canis lupus" ; Times: 4
+	Query: "scientificname:Sus scrofa" ; Times: 2
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 2
+	Query: "scientificname:Phoca vitulina" ; Times: 6
+	Query: "scientificname:Phocoena phocoena" ; Times: 2
+	Query: "scientificname:Ondatra zibethicus" ; Times: 2
+	Query: "scientificname:Lepus californicus" ; Times: 6
+	Query: "specificepithet:boylii genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "scientificname:Mustela frenata" ; Times: 4
+	Query: "scientificname:Balaenoptera borealis" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:CCBER" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 2
+	Query: "genus:onychomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CCBER" ; Times: 1
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "scientificname:Lynx rufus" ; Times: 4
+	Query: "scientificname:Ursus americanus" ; Times: 3
+	Query: "scientificname:Lasiurus cinereus" ; Times: 4
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 2
+	Query: "scientificname:Myotis leibii" ; Times: 2
+	Query: "vntype:specimen specificepithet:griseus genus:Sciurus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Canis latrans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 842 download events in this period)
+Total number of records downloaded: 1033
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-23 ; Times: 6
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 5
+	Date: 2020-11-04 ; Times: 13
+	Date: 2020-11-05 ; Times: 10
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-12 ; Times: 3
+	Date: 2020-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Spermophilus beldingi" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Tamias townsendii" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Spermophilus tereticaudus" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Dipodomys microps" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+
+
+End of report.
